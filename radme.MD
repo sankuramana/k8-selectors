@@ -1,0 +1,3 @@
+selectors
+. taint
+. toleration
